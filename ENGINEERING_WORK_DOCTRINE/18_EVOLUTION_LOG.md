@@ -5,6 +5,8 @@
 - Stability Level: Pre-stable operational line
 - Next Expected Evolution: Real-world application hardening — first work session under the stacked doctrine
 
+> **HISTORICAL RECORD NOTICE:** Entries below this line describe past states of the doctrine. The current doctrine is v0.8.1 — 35 files (00-34), five-layer architecture, 12 mega-tech protocols, 42 anti-patterns, 14 quality gates. Historical entries may reference fewer files, older architecture (four-layer), or different counts. **Do not interpret historical entries as current state.** This file preserves memory; it does not define current doctrine.
+
 ## Purpose of This File
 
 This file defines the official evolution log of the Engineering Work Doctrine.

@@ -6,13 +6,9 @@
 ## Doctrine Status
 Operational, structured, and under governed maturation. Mega-tech ready.
 
-The doctrine now has **35 files** (00-34). The evolution:
-- v0.6.0: Enforcement Layer (file 20)
-- v0.6.1: Stress-test hardening (user override, state persistence, refactoring without tests, false positive)
-- v0.7.0: Operational State dimension (file 21)
-- v0.7.1: Discovery Dimension Protocol (file 22)
-- v0.8.0: Mega-tech delivery stack (files 23-34: testing, ADRs, observability, security, tech debt, dependencies, documentation, incident response, quality gates, API governance, data governance, metrics)
-- v0.8.1: Ecosystem audit corrections — governance layer aligned with v0.8.0, Rigid Payload section standardization, Consolidation Moment unified checklist, five-layer architecture, conditional reading flow
+The doctrine has **35 files** (00-34), five-layer architecture, 12 mega-tech protocols, 42 anti-patterns, and 14 quality gates.
+
+For the complete version evolution history, see `18_EVOLUTION_LOG.md`.
 
 ## Purpose
 

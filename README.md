@@ -424,16 +424,9 @@ DocsSB/
 
 ## Version History
 
-| Version | Date | What Changed |
-|---------|------|--------------|
-| 0.6.0 | — | Enforcement Layer (file 20), original architecture (later expanded to five-layer in v0.8.1) |
-| 0.6.1 | — | Stress-test hardening (user override, state persistence, refactoring without tests, false positive) |
-| 0.7.0 | — | Operational State dimension (file 21), state-aware rules |
-| 0.7.1 | — | Discovery Dimension Protocol (file 22), 13 dimension categories |
-| 0.8.0 | — | Mega-tech delivery stack (files 23-34: 12 production-grade protocols) |
-| 0.8.1 | — | Ecosystem audit corrections, five-layer architecture, Rigid Payload standardization, Consolidation Moment unified, README/AGENTS separation, conditional reading flow |
+**Current version:** `0.8.1` — mega-tech ready, five-layer architecture, 35 files, 12 production-grade protocols, 42 anti-patterns, 14 quality gates, 27/27 consistency audit clean.
 
-See `ENGINEERING_WORK_DOCTRINE/18_EVOLUTION_LOG.md` for the complete evolution history.
+For the complete version evolution history, see `ENGINEERING_WORK_DOCTRINE/18_EVOLUTION_LOG.md`.
 
 ---
 
